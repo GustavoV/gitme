@@ -1,0 +1,3 @@
+class EnchiladasController < ApplicationController
+	
+end
